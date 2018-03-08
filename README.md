@@ -14,12 +14,12 @@ Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede q
 * FechFin
 * TipoObra
 
-### Entidad
+### Entidad:
 * CodEnti (PK) (autoincremental)
 * NomEnti
 * TipoEnti (Museo, Galería, Casa, etc.)
 
-### Persona
+### Persona:
 * CodPer (PK) (autoincremental)
 * NomPer
 * ApePer
@@ -29,14 +29,16 @@ Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede q
 
 
 
+
 Tablas que surgen:
 
-### ExpoEnti
+
+### ExpoEnti:
 * CodExpoEnti (PK)
 * CodExpo (FK)
 * CodEnti (FK)
 
-### ExpoPer
+### ExpoPer:
 * CodExpoPer (PK)
 * CodExpo (FK)
 * CodPer (FK)
