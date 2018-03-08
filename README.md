@@ -15,20 +15,28 @@ Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede q
 * TipoObra
 
 ### Entidad
-
+* CodEnti (PK) (autoincremental)
+* NomEnti
+* TipoEnti (Museo, Galería, Casa, etc.)
 
 ### Persona
-
-
-### Artista
-
-
-### Comisario (Un comisario es la persona que organiza la exposición artística)
+* CodPer (PK) (autoincremental)
+* NomPer
+* ApePer
+* Sexo
+* Titulacion
+* TipoPer (Artista o comisario - persona que organiza la exposición artística)
 
 
 
 Tablas que surgen:
 
 ### ExpoEnti
+* CodExpoEnti (PK)
+* CodExpo (FK)
+* CodEnti (FK)
 
 ### ExpoPer
+* CodExpoPer (PK)
+* CodExpo (FK)
+* CodPer (FK)
