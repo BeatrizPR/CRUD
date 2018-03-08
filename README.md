@@ -6,28 +6,29 @@ Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede q
 
 ## Tablas:
 
-* Exposicion:
-- CodExpo (PK)(autoincremental)
-NomExpo
-MoviExpo (Es el movimiento artístico)
-FechIni 
-FechFin
-TipoObra
+### Exposicion:
+* CodExpo (PK)(autoincremental)
+* NomExpo
+* MoviExpo (Es el movimiento artístico)
+* FechIni 
+* FechFin
+* TipoObra
 
-* Entidad
-
-
-* Persona
+### Entidad
 
 
-* Artista
+### Persona
 
 
-* Comisario (Un comisario es la persona que organiza la exposición artística)
+### Artista
+
+
+### Comisario (Un comisario es la persona que organiza la exposición artística)
+
 
 
 Tablas que surgen:
 
-* ExpoEnti
+### ExpoEnti
 
-* ExpoPer
+### ExpoPer
