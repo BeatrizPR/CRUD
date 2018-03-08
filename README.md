@@ -7,7 +7,7 @@ Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede q
 ## Tablas:
 
 * Exposicion:
-CodExpo (PK)(autoincremental)
+- CodExpo (PK)(autoincremental)
 NomExpo
 MoviExpo (Es el movimiento artístico)
 FechIni 
