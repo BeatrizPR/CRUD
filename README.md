@@ -1,8 +1,8 @@
 # CRUD
 
-Mi trabajo versa sobre un análisis de exposiciones temporales artísticas desarrollas en Málaga a través de la inclusión de datos en una base de datos, que realizaré con JSP y MYSQL.
+Mi trabajo versa sobre exposiciones temporales artísticas, desarrollas en Málaga a través de la inclusión de registros en una base de datos, que realizaré con JSP y MYSQL.
 
-Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede que varien e incluya algunas tablas más y del mismo modo algunos registros más, de los introducidos ahora.
+Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede que varien e incluya algunas tablas más y del mismo modo algunos registros más, a parte de los introducidos ahora.
 
 ## Tablas:
 
