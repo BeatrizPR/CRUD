@@ -4,30 +4,30 @@ Mi trabajo versa sobre un análisis de exposiciones temporales artísticas desar
 
 Estás son las posibles tablas que voy a utilizar en el proyecto, aunque puede que varien e incluya algunas tablas más y del mismo modo algunos registros más, de los introducidos ahora.
 
-##Tablas:
+## Tablas:
 
-*Exposicion:
--CodExpo (PK)(autoincremental)
--NomExpo
--MoviExpo (Es el movimiento artístico)
--FechIni 
--FechFin
--TipoObra
+* Exposicion:
+CodExpo (PK)(autoincremental)
+NomExpo
+MoviExpo (Es el movimiento artístico)
+FechIni 
+FechFin
+TipoObra
 
-*Entidad
-
-
-*Persona
+* Entidad
 
 
-*Artista
+* Persona
 
 
-*Comisario (Un comisario es la persona que organiza la exposición artística)
+* Artista
+
+
+* Comisario (Un comisario es la persona que organiza la exposición artística)
 
 
 Tablas que surgen:
 
-*ExpoEnti
+* ExpoEnti
 
-*ExpoPer
+* ExpoPer
