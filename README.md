@@ -19,7 +19,7 @@ El proyecto actual muestra las tablas de Exposición y de Entidad.
 
 ### Inicio:
 
-<img src="capturas/Inicio.jpg" width="440px">
+<img src="capturas/Inicio.jpg" width="680px">
 Inicio
 
 
