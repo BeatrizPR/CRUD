@@ -17,49 +17,51 @@ El proyecto actual muestra las tablas de Exposición y de Entidad.
 
 ## Capturas de pantalla con las distintas modificaciones que se pueden realizar
 
-## Inicio:
+### Inicio:
 
 <img src="capturas/Inicio.jpg" width="440px">
-[Inicio]
+Inicio
 
 
 ### Acceso:
-<img src="capturas/AccesoExpos.jpg" width="440px">
-[Acceso a las exposiciones]
 
-<img src="capturas/AccesoEnti.jpg" width="440px">
-[Acceso a las entidadess]
+<img src="capturas/AccesoExpos.jpg" width="680px">
+Acceso a las exposiciones
 
-###Añadir o Crear:
+<img src="capturas/AccesoEnti.jpg" width="680px">
+Acceso a las entidadess
 
-<img src="capturas/AñadirExpo.jpg" width="440px">
-[Añadir a las exposiciones]
+### Añadir o Crear:
 
-<img src="capturas/AñadirEnti.jpg" width="440px">
-[Añadir a las entidades]
+<img src="capturas/AñadirExpo.jpg" width="680px">
+Añadir a las exposiciones
 
-<img src="capturas/AñadidaExpoBien.jpg" width="440px">
-[Exposición añadida]
+<img src="capturas/AñadirEnti.jpg" width="680px">
+Añadir a las entidades
 
-<img src="capturas/EntidadAñadida.jpg" width="440px">
-[Entidad añadida]
+<img src="capturas/AñadidaExpoBien.jpg" width="680px">
+Exposición añadida
+
+<img src="capturas/EntidadAñadida.jpg" width="680px">
+Entidad añadida
 
 
 ### Modificación:
 
-<img src="capturas/ModificarExpo.jpg" width="440px">
-[Acceso a las exposiciones]
+<img src="capturas/ModificarExpo.jpg" width="680px">
+Acceso a las exposiciones
 
-<img src="capturas/ModificarEntidad.jpg" width="440px">
-[Acceso a las exposiciones]
-
-
-<img src="capturas/ComprobacionDelCodigo.jpg" width="440px">
-[Comprobación de que no se repita el Código (ID)]
+<img src="capturas/ModificarEntidad.jpg" width="680px">
+Acceso a las exposiciones
 
 
+<img src="capturas/ComprobacionDelCodigo.jpg" width="680px">
+Comprobación de que no se repita el Código (ID)
 
-##Estas tablas las añadiré en el futuro.
+
+
+
+## Estas tablas las añadiré en el futuro.
 
 Estas son las posibles tablas que voy a utilizar en el proyecto, aunque puede que varíen e incluya algunas tablas más y del mismo modo algunos registros más, a parte de los introducidos ahora.
 
