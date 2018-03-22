@@ -19,42 +19,42 @@ El proyecto actual muestra las tablas de Exposición y de Entidad.
 
 ## Inicio:
 
-<img src="imagenes/Inicio.jpg" width="240px">
+<img src="capturas/Inicio.jpg" width="440px">
 [Inicio]
 
 
 ### Acceso:
-<img src="imagenes/AccesoExpos.jpg" width="240px">
+<img src="capturas/AccesoExpos.jpg" width="440px">
 [Acceso a las exposiciones]
 
-<img src="imagenes/AccesoEnti.jpg" width="240px">
+<img src="capturas/AccesoEnti.jpg" width="440px">
 [Acceso a las entidadess]
 
 ###Añadir o Crear:
 
-<img src="imagenes/AñadirExpo.jpg" width="240px">
+<img src="capturas/AñadirExpo.jpg" width="440px">
 [Añadir a las exposiciones]
 
-<img src="imagenes/AñadirEnti.jpg" width="240px">
+<img src="capturas/AñadirEnti.jpg" width="440px">
 [Añadir a las entidades]
 
-<img src="imagenes/AñadidaExpoBien.jpg" width="240px">
+<img src="capturas/AñadidaExpoBien.jpg" width="440px">
 [Exposición añadida]
 
-<img src="imagenes/EntidadAñadida.jpg" width="240px">
+<img src="capturas/EntidadAñadida.jpg" width="440px">
 [Entidad añadida]
 
 
 ### Modificación:
 
-<img src="imagenes/ModificarExpo.jpg" width="240px">
+<img src="capturas/ModificarExpo.jpg" width="440px">
 [Acceso a las exposiciones]
 
-<img src="imagenes/ModificarEntidad.jpg" width="240px">
+<img src="capturas/ModificarEntidad.jpg" width="440px">
 [Acceso a las exposiciones]
 
 
-<img src="imagenes/ComprobacionDelCodigo.jpg" width="240px">
+<img src="capturas/ComprobacionDelCodigo.jpg" width="440px">
 [Comprobación de que no se repita el Código (ID)]
 
 
